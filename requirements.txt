@@ -1,0 +1,4 @@
+mss
+openai
+python-dotenv
+google-genai

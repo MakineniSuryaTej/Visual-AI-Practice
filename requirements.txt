@@ -3,3 +3,8 @@ openai
 python-dotenv
 google-genai
 pyqt5
+keyboard
+RealtimeSTT
+google-cloud-speech
+sounddevice
+scipy
